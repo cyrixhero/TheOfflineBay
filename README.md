@@ -47,13 +47,13 @@ Report bugs, request features, or talk to us at <a href=https://github.com/Offli
 
 #### The future of this project will depend on its popularity. Priority of plans:
 - An online version of this database.  Developement complete - just need to buy a server. <a href=https://raw.githubusercontent.com/OfflineBay/TheOfflineBay/master/docs/basic.png>screenshot1</a> <a href=https://raw.githubusercontent.com/OfflineBay/TheOfflineBay/master/docs/detailed1.png>screenshot2</a> <a href=https://raw.githubusercontent.com/OfflineBay/TheOfflineBay/master/docs/detailed2.png>screenshot3</a>
-- Another level of detail which adds detailed sources, historic tracking info, all TPB info(uploader/tpb_id/category/imdb/etc)
+- Another level of detail which adds detailed sources, historic tracking info, all TPB info(uploader/tpb_id/category/imdb/etc) (The same as the online version above)
 - Release our Pirate Bay dump.  We made this after TPB stopped providing dumps.  It contains all the information of every torrent on TPB (no comments as per)
 - Release a CSV/mysqlite3 dump of our database (49.4 million torrents)
 - WebTorrent/bitcoin integration for a serverless, domainless, censorship resistant website (this is half developed, built around <a href=https://github.com/elendirx/web2web>web2web</a>).
 - Open source
 - Python script so users can build their own database from available dumps/scrapes.
 
-#### If you're good with CSS, unlike me, I would be great if you made it look pretty.
+#### If you're good with CSS, unlike me, it would be great if you could help make it look pretty.
 #### You can help pay towards hosting costs by donating BTC to bc1q5j808wvsqt9z0j6tyycarp0f306sxfug5xd3zh
 We will never run pop-ups and will have no more than 1 ad per page.
