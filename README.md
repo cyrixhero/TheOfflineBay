@@ -1,4 +1,4 @@
-## The Offline Bay
+## <a href=https://github.com/OfflineBay/TheOfflineBay>The Offline Bay</a>
 
 The Offline Bay is a stand-alone searchable BitTorrent database containing over 31 million torrents.<br>
 It requires nothing but a modern web browser - no installation, no admin privileges, and no network access.<br>
