@@ -16,6 +16,10 @@ table {
   font-size: 0.9em;
   white-space: nowrap;
 }
+table .title {
+  white-space: normal;
+  word-break: break-word;
+}
 th {
   font-size: 1.1em;
   text-align: left;
