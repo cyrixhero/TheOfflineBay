@@ -4,7 +4,7 @@ The Offline Bay is a stand-alone searchable BitTorrent database containing over 
 It requires nothing but a modern web browser - no installation, no admin privileges, and no network access.<br>
 It works on Windows, Android, OS X, and Linux. 32 and 64-bit. <a href=https://raw.githubusercontent.com/OfflineBay/TheOfflineBay/master/docs/Search%20Results.png>Screenshot1</a> <a href=https://raw.githubusercontent.com/OfflineBay/TheOfflineBay/master/docs/Search%20Result%20Details.png>Screenshot2</a>
 
-1. Download
+1. <a href="magnet:?xt=urn:btih:477f7bf4bfdcc7f93209601781e625d3039acecb&dn=The%20Offline%20Bay.zip&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce">Download</a>
 2. Extract
 3. Search away!
 
@@ -14,7 +14,7 @@ We are not affiliated with The Pirate Bay or <a href=https://github.com/techtaco
 The database is available in the following flavors:
 - All (Everything - 31.1 million)
 - All Alive (Everything alive - 5.3 million) (Recommended)
-- TPB (The Pirate Bay only - 6 million)
+- TPB (The Pirate Bay only - 6.2 million) <a href="magnet:?xt=urn:btih:477f7bf4bfdcc7f93209601781e625d3039acecb&dn=The%20Offline%20Bay.zip&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce">Download</a>
 - TPB Alive (Alive from The Pirate Bay - 1.5 million)
 
 Each torrent contains the following info (where available):<br>
