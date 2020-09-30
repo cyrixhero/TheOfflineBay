@@ -5,7 +5,8 @@ It requires nothing but a modern web browser - no installation, no admin privile
 It works on Windows, Android, OS X, and Linux. 32 and 64-bit. <a href=https://raw.githubusercontent.com/OfflineBay/TheOfflineBay/master/docs/Search%20Results.png>Screenshot1</a> <a href=https://raw.githubusercontent.com/OfflineBay/TheOfflineBay/master/docs/Search%20Result%20Details.png>Screenshot2</a>
 
 1. Download
-2. Search away!
+2. Extract
+3. Search away!
 
 Fake torrents are not removed from this database, but because of the in-depth information available, they are easy to spot.<br>
 We are not affiliated with The Pirate Bay or <a href=https://github.com/techtacoriginal/offlinebay>OfflineBay by TechTac</a>.
