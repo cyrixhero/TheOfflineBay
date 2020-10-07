@@ -4,7 +4,7 @@ The Offline Bay is a stand-alone searchable BitTorrent database containing over 
 It requires nothing but a modern web browser - no installation, no admin privileges, and no network access.<br>
 It works on Windows, Android, OS X, and Linux. 32 and 64-bit. <a href=https://raw.githubusercontent.com/OfflineBay/TheOfflineBay/master/docs/Search%20Results.png>Screenshot1</a> <a href=https://raw.githubusercontent.com/OfflineBay/TheOfflineBay/master/docs/Search%20Result%20Details.png>Screenshot2</a>
 
-1. <a href="https://github.com/OfflineBay/TheOfflineBay/blob/master/docs/The%20Offline%20Bay.zip.torrent?raw=true">Download</a>
+1. <a>Download</a>
 2. Extract
 3. Search away!
 
@@ -14,7 +14,7 @@ We are not affiliated with The Pirate Bay or <a href=https://github.com/techtaco
 The database is available in the following flavors:
 - All (Everything - 31.1 million)
 - All Alive (Everything alive - 5.3 million) (Recommended)
-- TPB (The Pirate Bay only - 6.2 million) <a href="https://github.com/OfflineBay/TheOfflineBay/blob/master/docs/The%20Offline%20Bay.zip.torrent?raw=true">Download</a>
+- TPB (The Pirate Bay only - 6.2 million) <a>Download</a>
 - TPB Alive (Alive from The Pirate Bay - 1.5 million)
 
 Each torrent contains the following info (where available):<br>
@@ -49,11 +49,10 @@ Report bugs, request features, or talk to us at <a href=https://github.com/Offli
 - Another level of detail which adds detailed sources, historic tracking info, all TPB info(uploader/tpb_id/category/imdb/etc) (The same as the online version above)
 - Release our Pirate Bay dump.  We made this after TPB stopped providing dumps.  It contains all the information of every torrent on TPB (no comments as per)
 - Release a CSV/sqlite3 dump of our database (49.4 million torrents)
-- WebTorrent/bitcoin integration for an updatable but serverless, domainless, and censorship resistant version (this is half developed, built around <a href=https://github.com/elendirx/web2web>web2web</a>).
+- WebTorrent/bitcoin integration for an updatable, serverless, domainless, and censorship resistant version (this is half developed, built around <a href=https://github.com/elendirx/web2web>web2web</a>).
 - Options to sort by age/size (5x database size increase)
 - Open source
 - Python script so users can build their own database from available dumps/scrapes.
 
 #### If you're good with CSS, unlike me, it would be great if you could help make it look pretty.
-#### You can help pay towards hosting costs by donating BTC to bc1q5j808wvsqt9z0j6tyycarp0f306sxfug5xd3zh
-We will never run pop-ups and will have no more than 1 ad per page on the online version.
+You can help pay towards hosting costs by sending BTC to bc1q5j808wvsqt9z0j6tyycarp0f306sxfug5xd3zh
