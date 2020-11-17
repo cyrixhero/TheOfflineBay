@@ -55,4 +55,4 @@ Report bugs, request features, or talk to us at <a href=https://github.com/Offli
 - Python script so users can build their own database from available dumps/scrapes.
 
 #### If you're good with CSS, unlike me, it would be great if you could help make it look pretty.
-You can help pay towards hosting costs by sending BTC to bc1q5j808wvsqt9z0j6tyycarp0f306sxfug5xd3zh
+bc1q5j808wvsqt9z0j6tyycarp0f306sxfug5xd3zh
