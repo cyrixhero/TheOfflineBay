@@ -54,19 +54,19 @@ td {
   cursor: pointer;
 }
 pre {
-  font-family:"Lucida Console", Monaco, monospace;
-  font-size:0.8em;
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 0.8em;
   margin: 0;
   background: #fff;
   white-space: pre-wrap;
 }
 .color1080p {
-  color:Magenta;
+  color: Magenta;
 }
 .colorx265, .color2160p, .colorflac {
-  color:Red;
+  color: Red;
 }
 .tag {
-  float:right;
+  float: right;
   text-shadow: -1px 0 LawnGreen, 0 1px LawnGreen, 1px 0 LawnGreen, 0 -1px LawnGreen;
 }
