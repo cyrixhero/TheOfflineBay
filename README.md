@@ -17,8 +17,8 @@ We believe public policy should be decided using the best available evidence.
 * The circulation of knowledge is sacred
 * The act of copying is sacred
 
-#### BitTorrent database
+#### BitTorrent Search
 
-A serverless searchable database using <a href=https://github.com/webtorrent/webtorrent>WebTorrent</a>. This database is a current and historical record of torrents shared over BitTorrent. Anyone can download, share, and use this database freely.
+A decentralized BitTorrent database for anyone to search, download, share, and use freely. It contains most alive torrents shared over BitTorrent.
 
 We are in early development and open to any suggestions through the issues tab. Help with our CSS would be highly appreciated.
