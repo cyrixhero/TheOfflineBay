@@ -1,14 +1,10 @@
 ### <a href=https://theofflinebay.org>theofflinebay.org</a>
 
-<a href=https://theofflinebay.org>The Offline Bay</a> is an online version of our to-be-released book. Below are our principles. 
+<a href=https://theofflinebay.org>The Offline Bay</a> is an online version of our to-be-released book. 
 
-#### Pirate Politics
+#### Politics
 
-We support e-democracy, information privacy, free speech, civil rights, transparency, copyright and patent law reform, anti-corruption, and the free sharing of knowledge.
-
-#### Evidence Informed Policy
-
-We believe public policy should be decided using the best available evidence.
+We support e-democracy, information privacy, free speech, civil rights, transparency, copyright and patent law reform, anti-corruption, and the free sharing of knowledge. We believe public policy should be decided using the best available evidence.
 
 #### Kopimism
 
