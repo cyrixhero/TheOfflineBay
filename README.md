@@ -13,7 +13,7 @@ We support e-democracy, information privacy, free speech, civil rights, transpar
 * The circulation of knowledge is sacred
 * The act of copying is sacred
 
-#### BitTorrent Search
+#### BitTorrent
 
 A decentralized BitTorrent database for anyone to search, download, share, and use freely. It contains most alive torrents shared over BitTorrent.
 
