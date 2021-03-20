@@ -19,7 +19,7 @@ a:hover {
 table {
   width: 100%;
   border-collapse: collapse;
-  font-size: 0.9em;
+  font-size: .9em;
   white-space: nowrap;
 }
 table .title {
@@ -60,7 +60,7 @@ td {
 }
 pre {
   font-family: "Lucida Console", Monaco, monospace;
-  font-size: 0.8em;
+  font-size: .8em;
   margin: 0;
   background: #fff;
   white-space: pre-wrap;
