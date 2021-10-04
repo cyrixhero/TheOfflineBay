@@ -75,12 +75,15 @@ pre {
 }
 .colorrepack {
 	color: Green;
+	text-shadow: none;
 }
 .color1080p {
 	color: Magenta;
+	text-shadow: none;
 }
 .colorx265, .color2160p, .colorflac {
 	color: Red;
+	text-shadow: none;
 }
 .tag {
 	float: right;
